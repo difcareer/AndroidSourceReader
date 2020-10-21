@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AntConfiguration">
+    <defaultAnt bundledAnt="true" />
+    <buildFile url="file://$PROJECT_DIR$/ide/intellij/build.xml">
+      <additionalClassPath />
+      <antReference projectDefault="true" />
+      <customJdkName value="" />
+      <maximumHeapSize value="128" />
+      <properties />
+    </buildFile>
+  </component>
+  <component name="BuildJarProjectSettings">
+    <option name="BUILD_JARS_ON_MAKE" value="false" />
+  </component>
+  <component name="CodeStyleProjectProfileManger">
+    <option name="PROJECT_PROFILE" />
+    <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+  </component>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value>
+        <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+        <option name="RIGHT_MARGIN" value="80" />
+        <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
+        <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
+      </value>
+    </option>
+  </component>
+  <component name="CompilerConfiguration">
+    <resourceExtensions>
+      <entry name=".+\.(properties|xml|html|dtd|tld)" />
+      <entry name=".+\.(gif|png|jpeg|jpg)" />
+    </resourceExtensions>
+    <wildcardResourcePatterns>
+      <entry name="?*.properties" />
+      <entry name="?*.xml" />
+      <entry name="?*.gif" />
+      <entry name="?*.png" />
+      <entry name="?*.jpeg" />
+      <entry name="?*.jpg" />
+      <entry name="?*.html" />
+      <entry name="?*.dtd" />
+      <entry name="?*.tld" />
+    </wildcardResourcePatterns>
+  </component>
+  <component name="DependenciesAnalyzeManager">
+    <option name="myForwardDirection" value="false" />
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="EclipseCompilerSettings">
+    <option name="DEBUGGING_INFO" value="true" />
+    <option name="GENERATE_NO_WARNINGS" value="true" />
+    <option name="DEPRECATION" value="false" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="" />
+    <option name="MAXIMUM_HEAP_SIZE" value="128" />
+  </component>
+  <component name="EclipseEmbeddedCompilerSettings">
+    <option name="DEBUGGING_INFO" value="true" />
+    <option name="GENERATE_NO_WARNINGS" value="true" />
+    <option name="DEPRECATION" value="false" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="" />
+    <option name="MAXIMUM_HEAP_SIZE" value="128" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="PRINT_LINE_NUMBERS" value="false" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+    <option name="OUTPUT_DIRECTORY" />
+  </component>
+  <component name="IdProvider" IDEtalkID="C8FEF8FDDA8778BFC0BDE2CF5A21CB2C" />
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="JavacSettings">
+    <option name="DEBUGGING_INFO" value="true" />
+    <option name="GENERATE_NO_WARNINGS" value="false" />
+    <option name="DEPRECATION" value="false" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-Xlint:all,-deprecation,-serial" />
+    <option name="MAXIMUM_HEAP_SIZE" value="800" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
+    <option name="OTHER_OPTIONS" value="" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+  </component>
+  <component name="JikesSettings">
+    <option name="JIKES_PATH" value="" />
+    <option name="DEBUGGING_INFO" value="true" />
+    <option name="DEPRECATION" value="true" />
+    <option name="GENERATE_NO_WARNINGS" value="false" />
+    <option name="IS_EMACS_ERRORS_MODE" value="true" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="" />
+  </component>
+  <component name="LogConsolePreferences">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="Palette2">
+    <group name="Swing">
+      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
+      </item>
+      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
+      </item>
+      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.png" removable="false" auto-create-binding="false" can-attach-label="true">
+        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
+        <initial-values>
+          <property name="text" value="Button" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="RadioButton" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="CheckBox" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="Label" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+          <preferred-size width="200" height="200" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+          <preferred-size width="200" height="200" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
+      </item>
+      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
+          <preferred-size width="-1" height="20" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
+      </item>
+      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
+      </item>
+    </group>
+  </component>
+  <component name="ProjectCodeStyleConfiguration">
+    <code_scheme name="Project" version="173">
+      <JetCodeStyleSettings>
+        <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+          <value>
+            <package name="java.util" alias="false" withSubpackages="false" />
+            <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
+            <package name="io.ktor" alias="false" withSubpackages="true" />
+          </value>
+        </option>
+        <option name="PACKAGES_IMPORT_LAYOUT">
+          <value>
+            <package name="" alias="false" withSubpackages="true" />
+            <package name="java" alias="false" withSubpackages="true" />
+            <package name="javax" alias="false" withSubpackages="true" />
+            <package name="kotlin" alias="false" withSubpackages="true" />
+            <package name="" alias="true" withSubpackages="true" />
+          </value>
+        </option>
+      </JetCodeStyleSettings>
+      <codeStyleSettings language="XML">
+        <indentOptions>
+          <option name="CONTINUATION_INDENT_SIZE" value="4" />
+        </indentOptions>
+        <arrangement>
+          <rules>
+            <section>
+              <rule>
+                <match>
+                  <AND>
+                    <NAME>xmlns:android</NAME>
+                    <XML_ATTRIBUTE />
+                    <XML_NAMESPACE>^$</XML_NAMESPACE>
+                  </AND>
+                </match>
+              </rule>
+            </section>
+            <section>
+              <rule>
+                <match>
+                  <AND>
+                    <NAME>xmlns:.*</NAME>
+                    <XML_ATTRIBUTE />
+                    <XML_NAMESPACE>^$</XML_NAMESPACE>
+                  </AND>
+                </match>
+                <order>BY_NAME</order>
+              </rule>
+            </section>
+            <section>
+              <rule>
+                <match>
+                  <AND>
+                    <NAME>.*:id</NAME>
+                    <XML_ATTRIBUTE />
+                    <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                  </AND>
+                </match>
+              </rule>
+            </section>
+            <section>
+              <rule>
+                <match>
+                  <AND>
+                    <NAME>.*:name</NAME>
+                    <XML_ATTRIBUTE />
+                    <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                  </AND>
+                </match>
+              </rule>
+            </section>
+            <section>
+              <rule>
+                <match>
+                  <AND>
+                    <NAME>name</NAME>
+                    <XML_ATTRIBUTE />
+                    <XML_NAMESPACE>^$</XML_NAMESPACE>
+                  </AND>
+                </match>
+              </rule>
+            </section>
+            <section>
+              <rule>
+                <match>
+                  <AND>
+                    <NAME>style</NAME>
+                    <XML_ATTRIBUTE />
+                    <XML_NAMESPACE>^$</XML_NAMESPACE>
+                  </AND>
+                </match>
+              </rule>
+            </section>
+            <section>
+              <rule>
+                <match>
+                  <AND>
+                    <NAME>.*</NAME>
+                    <XML_ATTRIBUTE />
+                    <XML_NAMESPACE>^$</XML_NAMESPACE>
+                  </AND>
+                </match>
+                <order>BY_NAME</order>
+              </rule>
+            </section>
+            <section>
+              <rule>
+                <match>
+                  <AND>
+                    <NAME>.*</NAME>
+                    <XML_ATTRIBUTE />
+                    <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                  </AND>
+                </match>
+                <order>ANDROID_ATTRIBUTE_ORDER</order>
+              </rule>
+            </section>
+            <section>
+              <rule>
+                <match>
+                  <AND>
+                    <NAME>.*</NAME>
+                    <XML_ATTRIBUTE />
+                    <XML_NAMESPACE>.*</XML_NAMESPACE>
+                  </AND>
+                </match>
+                <order>BY_NAME</order>
+              </rule>
+            </section>
+          </rules>
+        </arrangement>
+      </codeStyleSettings>
+    </code_scheme>
+  </component>
+  <component name="ProjectFileVersion" converted="true" />
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file:///tmp/intellij/Volumes/myA/aosp/classes" />
+  </component>
+  <component name="RmicSettings">
+    <option name="IS_EANABLED" value="false" />
+    <option name="DEBUGGING_INFO" value="true" />
+    <option name="GENERATE_NO_WARNINGS" value="false" />
+    <option name="GENERATE_IIOP_STUBS" value="false" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Perforce" />
+    <mapping directory="$PROJECT_DIR$/frameworks/av" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/compile/libbcc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/compile/mclinker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/compile/slang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/ex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/hardware/interfaces" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/layoutlib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/minikin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/ml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/multidex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/native" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/bitmap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/calendar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/car/services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/car/setupwizard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/chips" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/colorpicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/datetimepicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/gamesdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/net/ethernet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/net/ike" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/net/ims" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/net/voip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/net/wifi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/photoviewer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/setupwizard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/telephony" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/timezonepicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/vcard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/rs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/wilhelm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/BasicSmsReceiver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Bluetooth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Browser2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Calendar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Camera2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/Cluster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/Dialer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/Hvac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/LatinIME" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/Launcher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/LensPicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/LinkViewer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/LocalMediaPlayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/Media" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/Messenger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/Notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/Overview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/Radio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/Settings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/Stream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/SystemUpdater" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/externallibs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/libs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Car/tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/CarrierConfig" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/CellBroadcastReceiver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/CertInstaller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Contacts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/DeskClock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/DevCamera" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Dialer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/DocumentsUI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/EmergencyInfo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Gallery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Gallery2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/HTMLViewer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/KeyChain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Launcher3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/LegacyCamera" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/ManagedProvisioning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Messaging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Music" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/MusicFX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Nfc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/OneTimeInitializer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/PermissionController" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/PhoneCommon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Protips" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Provision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/QuickSearchBox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/SafetyRegulatoryInfo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/SampleLocationAttribution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/SecureElement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Settings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/SettingsIntelligence" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/SoundRecorder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/SpareParts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Stk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/StorageManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/TV" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Tag" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Terminal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Test/connectivity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/ThemePicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/TimeZoneData" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/TimeZoneUpdater" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Traceur" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/TvSettings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/UnifiedEmail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/UniversalMediaPlayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/WallpaperPicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/WallpaperPicker2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/inputmethods/LatinIME" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/modules/CaptivePortalLogin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/modules/ExtServices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/modules/ModuleMetadata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/modules/NetworkPermissionConfig" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/modules/NetworkStack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/modules/TestModule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/ApplicationsProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/BlockedNumberProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/BookmarkProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/CalendarProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/CallLogProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/ContactsProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/DownloadProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/MediaProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/PartnerBookmarksProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/TelephonyProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/TvProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/providers/UserDictionaryProvider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/screensavers/Basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/screensavers/PhotoTable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/services/AlternativeNetworkAccess" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/services/BuiltInPrintService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/services/Car" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/services/Mms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/services/Telecomm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/services/Telephony" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/wallpapers/LivePicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/platform_testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/mlts/benchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/mlts/models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/mts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/suite_harness" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vti/alert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vti/dashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vti/fuzz_test_serving" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vti/test_serving" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vts-testcase/fuzz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vts-testcase/hal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vts-testcase/hal-trace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vts-testcase/kernel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vts-testcase/nbu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vts-testcase/performance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vts-testcase/security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/vts-testcase/vndk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/toolchain/benchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/toolchain/pgo-profiles" vcs="Git" />
+  </component>
+  <component name="com.intellij.jsf.UserDefinedFacesConfigs">
+    <option name="USER_DEFINED_CONFIGS">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+  </component>
+  <component name="uidesigner-configuration">
+    <option name="INSTRUMENT_CLASSES" value="true" />
+    <option name="COPY_FORMS_RUNTIME_TO_OUTPUT" value="true" />
+    <option name="DEFAULT_LAYOUT_MANAGER" value="GridLayoutManager" />
+  </component>
+</project>
