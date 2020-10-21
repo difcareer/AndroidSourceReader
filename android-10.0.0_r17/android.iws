@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6202275b-3593-4dc0-8ba8-fc5e53673eb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frameworks/base" />
+  </component>
+  <component name="ProjectId" id="1jB9bxd2LY9sOhkOuxnHWHX2jj7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6202275b-3593-4dc0-8ba8-fc5e53673eb3" name="Default Changelist" comment="" />
+      <created>1603266692714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603266692714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="-1043" key="#Project_Structure" timestamp="1603270108547">
+      <screen x="-381" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="499" y="-1043" key="#Project_Structure/-381.-1417.2560.1417/0.23.1680.984@-381.-1417.2560.1417" timestamp="1603270108547" />
+    <state x="731" y="-813" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1603270061161">
+      <screen x="-381" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="731" y="-813" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-381.-1417.2560.1417/0.23.1680.984@-381.-1417.2560.1417" timestamp="1603270061161" />
+    <state x="139" y="-1240" key="SettingsEditor" timestamp="1603270532059">
+      <screen x="-381" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="139" y="-1240" key="SettingsEditor/-381.-1417.2560.1417/0.23.1680.984@-381.-1417.2560.1417" timestamp="1603270532059" />
+    <state x="341" y="146" key="SettingsEditor/-381.-1417.2560.1417/0.23.1680.984@0.23.1680.984" timestamp="1603269755037" />
+    <state x="564" y="-1092" width="670" height="676" key="search.everywhere.popup" timestamp="1603270663972">
+      <screen x="-381" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="564" y="-1092" width="670" height="676" key="search.everywhere.popup/-381.-1417.2560.1417/0.23.1680.984@-381.-1417.2560.1417" timestamp="1603270663972" />
+  </component>
+</project>
